@@ -15,7 +15,8 @@
 					<view :class="['article-tab-li',{'act':currentTab===index}]"
 					 v-for="(item,index) in tabList" :key="index"
 					  @click="checkTab(index)">
-						{{item}}
+						{{index}}
+						{{item}}66632
 					</view>
 				</scroll-view>
 				<view class="article-tab-set">
