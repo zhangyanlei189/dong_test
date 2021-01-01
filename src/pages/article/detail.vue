@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2020-10-19 15:13:25
- * @LastEditTime: 2020-11-05 21:56:03
+ * @LastEditTime: 2021-01-01 10:06:55
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \ithub-mobile\src\pages\index\index.vue
@@ -11,10 +11,10 @@
 		<view class="article-detail">
 			<view class="top pd24">
 				<view class="title-h1">
-					{{detailInfo.title}}
+					{{detailInfo.title}}1012211
 				</view>
 				<view class="msg"> 
-					<view class="zz">
+					<view class="zz">12211
 						<image class="img" :src="detailInfo.author.headimg"></image>
 						{{detailInfo.author.username}}
 					</view>
