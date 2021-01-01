@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2020-10-19 15:13:25
- * @LastEditTime: 2021-01-01 10:09:15
+ * @LastEditTime: 2021-01-01 10:16:53
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \ithub-mobile\src\pages\index\index.vue
@@ -11,17 +11,18 @@
 	<view class="app-page">
 		<view class="article">
 			<view class="article-tab">
+				12
 				<scroll-view class="article-tab-scroll" scroll-x>
 					<view :class="['article-tab-li',{'act':currentTab===index}]"
 					 v-for="(item,index) in tabList" :key="index"
-					  @click="checkTab(index)">
+					  @click="checkTab(index)">233
 						{{item}}2233
 					</view>
 				</scroll-view>
 				<view class="article-tab-set">
-				
+				22
 					<navigator url="/pages/article/nav">|||</navigator>
-					
+					22
 				</view>
 			</view>
 			<view class="article-content">
