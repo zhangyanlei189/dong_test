@@ -6,6 +6,7 @@
  * @Description: In User Settings Edit
  * @FilePath: \ithub-mobile\src\pages\index\index.vue
 -->
+
 <template>
 	<view class="app-page">
 		<view class="article">
@@ -18,7 +19,9 @@
 					</view>
 				</scroll-view>
 				<view class="article-tab-set">
+				
 					<navigator url="/pages/article/nav">|||</navigator>
+					
 				</view>
 			</view>
 			<view class="article-content">
