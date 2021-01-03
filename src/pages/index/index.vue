@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2020-10-19 15:13:25
- * @LastEditTime: 2021-01-03 09:40:45
+ * @LastEditTime: 2021-01-03 09:49:44
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \ithub-mobile\src\pages\index\index.vue
@@ -50,6 +50,7 @@
 							 <view class="fl img">
 								 <image src="/static/images/mj.jpg" mode="scaleToFill"></image>
 							 </view>
+							 
 							 <view class="fl msg">
 								<view class="title">开源数据库学习与研究</view>
 								<view class="para">
