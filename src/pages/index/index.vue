@@ -23,10 +23,11 @@
                   </swiper-item>
               </swiper>
 			   <view class="pd24">
+			   
 				  <scroll-view class="tab-scroll" scroll-x="true" paging-enabled="true">
 					  <view class="tab-scroll-li">
 						  <navigator url="/pages/column/index" class="url">
-						 	 我的小栈
+						 	 我的小栈123
 						  </navigator>
 						  </view>
 					  <view class="tab-scroll-li">
@@ -50,6 +51,7 @@
 							 <view class="fl img">
 								 <image src="/static/images/mj.jpg" mode="scaleToFill"></image>
 							 </view>
+							 
 							 <view class="fl msg">
 								<view class="title">开源数据库学习与研究</view>
 								<view class="para">
