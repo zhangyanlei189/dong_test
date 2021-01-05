@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2020-10-19 15:13:25
- * @LastEditTime: 2020-11-14 14:18:54
+ * @LastEditTime: 2021-01-03 09:49:44
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \ithub-mobile\src\pages\index\index.vue
@@ -23,11 +23,10 @@
                   </swiper-item>
               </swiper>
 			   <view class="pd24">
-			   
-				  <scroll-view class="tab-scroll" scroll-x="true" paging-enabled="true">
-					  <view class="tab-scroll-li">
+				  <scroll-view class="tab-scroll" scroll-x="true" paging-enabled="true">1222
+					  <view class="tab-scroll-li">321
 						  <navigator url="/pages/column/index" class="url">
-						 	 我的小栈123
+						 	 我的小栈333
 						  </navigator>
 						  </view>
 					  <view class="tab-scroll-li">
